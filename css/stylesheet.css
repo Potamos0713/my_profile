@@ -10,7 +10,7 @@ body {
   font-family:"Arial", "Meiryo", sans-serif;
 }
 
-#bold1, #bold2, #bold3 {
+.bold {
   font-weight: bold;
 }
 
