@@ -1,20 +1,27 @@
-#title {
-  font-size: 24px;
-  text-shadow: 1px 1px gray;
-  letter-spacing: 1em;
+header {
+  font-size:20px;
+}
+
+h1 {
+  font-size: 2em;
+  letter-spacing: 1.2em;
   text-align: center;
   margin-bottom: 0px;
+  font-family: "Josefin Sans", sans-serif;
+  text-shadow: 1px 1px gray;
+}
+
+hr{
+  margin-top: 0px;
+  size: 3px;
+  color: rgb(115, 115, 114);
 }
 
 body {
   font-family:"Arial", "Meiryo", sans-serif;
 }
 
-h1 {
-  font-family: "Josefin Sans", sans-serif;
-}
-
-.bold {
+#basic > p{
   font-weight: bold;
 }
 
