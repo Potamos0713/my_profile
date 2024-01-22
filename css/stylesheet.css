@@ -1,0 +1,35 @@
+#title {
+  font-size: 24px;
+  text-shadow: 1px 1px gray;
+  letter-spacing: 1em;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+body {
+  font-family:"Arial", "Meiryo", sans-serif;
+}
+
+#bold1, #bold2, #bold3 {
+  font-weight: bold;
+}
+
+#title-m {
+  color:skyblue;
+}
+
+#title-p {
+  color:pink ;
+}
+
+body {
+  text-align: center;
+}
+
+#name, #blood-type, #fav-food {
+  color:pink;
+}
+
+#age, #hobby, #reason {
+  color:skyblue;
+}
