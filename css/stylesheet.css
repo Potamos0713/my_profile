@@ -1,46 +1,30 @@
-header {
-  font-size:20px;
+html {
+  font-size: 20px;
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 2rem;
   letter-spacing: 1.2em;
   text-align: center;
   margin-bottom: 0px;
   font-family: "Josefin Sans", sans-serif;
   text-shadow: 1px 1px gray;
-}
-
-hr{
-  margin-top: 0px;
-  size: 3px;
-  color: rgb(115, 115, 114);
+  border-bottom: solid 3px rgb(115, 115, 114) ;
 }
 
 body {
   font-family:"Arial", "Meiryo", sans-serif;
+  text-align: center;
 }
 
 #basic > p{
   font-weight: bold;
 }
 
-#title-m {
-  color:skyblue;
+.color_skyblue {
+  color: skyblue;
 }
 
-#title-p {
-  color:pink ;
-}
-
-body {
-  text-align: center;
-}
-
-#name, #blood-type, #fav-food {
-  color:pink;
-}
-
-#age, #hobby, #reason {
-  color:skyblue;
+.color_pink {
+  color: pink;
 }
